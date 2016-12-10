@@ -1,0 +1,6 @@
+package Java;
+public class Setter {
+	public static void main(String args[]){
+	if(System.out.printf("rahul")!=null);
+	}
+}
